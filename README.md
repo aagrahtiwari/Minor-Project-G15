@@ -125,17 +125,17 @@ Manage zones and permissions
 Generate reports
 Monitor dashboard analytics
 
-#👷 MCD Worker
+# 👷 MCD Worker
 Upload survey images
 Perform field inspections
 Create unauthorized construction cases
 
-#🕵️ Inspector
+# 🕵️ Inspector
 View assigned cases
 Update case status
 Add remarks and field notes
 
-#📈 System Workflow
+# 📈 System Workflow
 Admin stores approved building records
 MCD worker uploads survey images
 System analyzes construction data
@@ -144,14 +144,14 @@ Unauthorized construction is detected
 Cases are generated automatically
 Reports and analytics are updated
 
-#🎯 Objectives
+# 🎯 Objectives
 Reduce unauthorized constructions
 Improve urban governance
 Automate monitoring processes
 Enhance transparency
 Support smart city initiatives
 
-#📌 Future Enhancements
+# 📌 Future Enhancements
 AI/ML-based image recognition
 GIS integration
 Drone and satellite monitoring
@@ -159,7 +159,7 @@ Real-time notifications
 Mobile application support
 Advanced analytics dashboard
 
-#📊 System Accuracy
+# 📊 System Accuracy
 The system currently provides approximately:
 ✅ 80% Detection Accuracy
 Accuracy depends on:
@@ -167,7 +167,7 @@ Survey image quality
 Dataset correctness
 Construction visibility
 
-#🧪 Testing
+# 🧪 Testing
 The project includes:
 
 Unit Testing
@@ -176,13 +176,13 @@ Functional Testing
 Performance Testing
 User Acceptance Testing
 
-#👨‍💻 Team Members
+# 👨‍💻 Team Members
 Aditya Patel
 Aagrah Tiwari
 Aditya Chouhan
 Ajay Naroliya
 
-#🎓 Academic Information
+# 🎓 Academic Information
 
 Project Type: Minor Project
 Department: Computer Science Engineering
